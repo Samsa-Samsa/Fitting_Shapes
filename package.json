@@ -1,14 +1,14 @@
 {
-  "name": "com.appidea.minigames.YOUR_MINI_GAME_NAME (in lower case only)",
-  "version": "0.1.1",
-  "displayName": "Your mini game package name",
-  "description": "Your mini game description",
+  "name": "com.appidea.minigames.fitting_shapes (in lower case only)",
+  "version": "0.1.2",
+  "displayName": "fitting_shapes",
+  "description": "match objects",
   "dependencies": {
     "com.unity.addressables": "1.21.21",
-    "com.unity.render-pipelines.universal": "~14.0.10"
+    "com.unity.render-pipelines.universal": "14.0.10"
   },
   "unity": "2022.3",
   "author": {
-    "name": "appidea"
+    "name": "irakli"
   }
 }

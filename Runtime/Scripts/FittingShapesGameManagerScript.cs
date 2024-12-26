@@ -294,6 +294,7 @@ public class GameManagerScript : MonoBehaviour
         {
            // print("win");
             SetFinishForPackage();
+            Debug.Log("????");
             PlayWiningAction();
 
             Win = true;
@@ -315,8 +316,8 @@ public class GameManagerScript : MonoBehaviour
 
     private IEnumerator FinishAfterFireworks()
     {
-        yield return new WaitForSecondsRealtime(5f);
-        
+        yield return new WaitForSecondsRealtime(2f);
+        _entryPont.InvokeGameFinished();
     }
 
     private void FinishOnButton()

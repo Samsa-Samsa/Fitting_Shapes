@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   MiniGameName: Fitting_Shapes
-  Version: 0.1.3
+  Version: 0.1.4
   Url: https://pub-2d6130f450674086a56d004deb74a4b6.r2.dev
   CustomRenderPipelineAsset: {fileID: 11400000, guid: 44d3dcf41cf402847a41905289bc97fe, type: 2}

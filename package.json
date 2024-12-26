@@ -1,6 +1,6 @@
 {
   "name": "com.appidea.minigames.fitting_shapes",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "fitting shapes",
   "description": "match objects",
   "dependencies": {
